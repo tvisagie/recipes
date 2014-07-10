@@ -4,5 +4,4 @@
 * Beans
 * Salsa
 * Gauc
-* Cheese
 * Tortilla
